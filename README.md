@@ -60,7 +60,7 @@ VITE v3.2.4  ready in 1253 ms
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [JavaScript](https://www.javascript.com/)
-- [React](https://pt-br.reactjs.org/)
+- [React + Vite](https://pt-br.reactjs.org/)
 - [Styled-components](https://styled-components.com/)
 - [Node.js](https://nodejs.org/en/)
 ---
